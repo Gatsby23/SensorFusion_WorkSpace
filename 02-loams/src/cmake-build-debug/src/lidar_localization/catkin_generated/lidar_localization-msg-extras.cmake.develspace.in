@@ -1,0 +1,2 @@
+set(lidar_localization_MESSAGE_FILES "")
+set(lidar_localization_SERVICE_FILES "/home/robotics/Lab_Work/SensorFusion_WorkSpace/02-loams/src/src/lidar_localization/srv/saveMap.srv")

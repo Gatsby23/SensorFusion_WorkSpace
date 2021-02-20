@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robotics/Lab_Work/SensorFusion_WorkSpace/02-loams/src/cmake-build-debug/devel/setup.sh
